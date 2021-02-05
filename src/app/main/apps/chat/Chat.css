@@ -1,0 +1,22 @@
+.tox-tinymce {
+	border: none!important;
+}
+
+ul {
+	list-style: initial;
+	padding-left: 15px;
+}
+.leading-tight {
+	line-height: 1.4;
+	padding-top: 10px;
+	padding-bottom: 7px;
+}
+blockquote {
+	border-left: 2px solid #aaa;
+    margin-left: 12px;
+    padding-left: 10px;
+}
+.leading-tight p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
